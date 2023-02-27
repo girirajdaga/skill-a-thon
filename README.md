@@ -138,11 +138,17 @@ Supporting Services
 - Employer Backend http://alb1-1843043243.ap-south-1.elb.amazonaws.com/dsepbe/jobs
 
 Leverages following Reference Apps
-- Unified BAP 
-- Jobs and Internships BPPs 
+- Jobs and Internships BPPs : [https://6vs8xnx5i7.execute-api.ap-south-1.amazonaws.com/dsep](https://6vs8xnx5i7.execute-api.ap-south-1.amazonaws.com/dsep)
+- Unfied BAP : [https://dsep-protocol-network.becknprotocol.io](https://dsep-protocol-network.becknprotocol.io)
+- Unified client : [https://dsep-protocol-client.becknprotocol.io/search](https://dsep-protocol-client.becknprotocol.io/search)
 
 
 ## User guide	
+- MyBuddy App - use email otp combination to login 
+- Courses Portal (Training Quiz) - use email otp combination to login 
+- Employer portal - use following credentials to login as a pre-created Employer or sign up as a new employer using 
+  - username: bestemployeradmin
+  - password: Bestemployer123
 
 ## Source code	
 
