@@ -161,3 +161,5 @@ Solution is leveraging open source code
 ## Developer guide
 
 - create API Key using https://apikey.affinidi.com/ if you wish to use the hosted Affinidi Core SDK for Credentials Wallet 
+- Refer to each source code repo and run the following command
+ `docker compose up -d`
