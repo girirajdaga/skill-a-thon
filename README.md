@@ -108,10 +108,10 @@ MyBuddy consumer facing mobile application (EUA) providing unified experience fo
 Sequence diagrams for 
 - Consumer facing application (MyBuddy) interaction with DSEP network to discover opportunities using /search, /select, /confirm and /status methods - [here](https://swimlanes.io/#3VbBbiM3DD13voK3JsZOku0xBQLE2SBtF2kNpEEPRdEwGtoWopGmksaOUfTfS0ozHo+ddPeQXHqyLUqP5OMjzaijoXO4cja0NXmYo9J2Adg0oG0kjypqZ2Gt4xI+3V3PwFJcO/8E0UGlg3IrfuSaxvnYWh01hcK6yIjamDZEj5ECtAEXBG4Od4ReLT/wpyEVAW0lnufa1zC9vvr8M1zOfgzwuDmI5/r+MsVkiP3hQo7ikuDe6rmmCqaXM/A0J09WESijyUaosSLAFWqDj4Zg7jz8gOoJ49LZoouSnrFu2BgUWfTaQTlk5TnIFTKQcq0PnIYgtE144tQSRxy9cvI8EpD1ztTiNlGFED2nz6H1fDXoo1a6EUAmVLgsitvNtK2qjWRXXtwH8rdomSrBKZmKIzYcn4MYrjxhqoR4vWwao1X6fReZ4eFV8QoIlOUF7Hg7h4fvzs4e4JfPe0HAb555Js+MlnzC98LGqgc4nUxCKt5kcsTub11F5hiK8e3kZR+gvy2KmZJ6svnXJ4x4m26GQ5iLvrJS2CGGHMHRgHLclXHqHVYKQ+wUJr5Gam3cmsVRibSy0BrvolPOpKJedQUWbn9yj2GrgQ18P9JYpyx+vNKVPIAlYWUoBJAQRb6AIakCxR2Hgb0hSANMb4Icsq1loYqEsz1IGett3fi04QYJ3IMifWbo5OTkHP6eYyhDo60l/w98PAsSiWLvqR90zSL3rh5FvEdEscMrszy9EXbxdXr5QnlQjV450xuBmM3Cf4PA+lQetl4X6XK5ddwBwc55RpvltBJBGRD+aqUcqedamSrMYWhNZHPs34/jPHX2z+7tKBqRYQ6HIRTpFTPFNHdXPbEj1tGIqJ00+9wH8zcHBK1Rx6Srj2cMq1hDiseZM7qSuNEYQZP4Gz7u5opkGp9BVx+gDgv+3A9gr0VkZBsZojITRFgjxFENX2rSoee/ALTt9aL40qRII0KQRiOC6V5wiWrnCSqKPI2DzD/JV7Pk32SCQB4DrLNZLiz34Au1fdHfq6NGMtmXcQfPkFzRSM8Rfl+4/GfkXbtYiq7Zd4MhdCd/FPstl4WU275zM67Xthl2A2PdpZZ7QehD700mSfNdDd5c9Af2A03mnkyTrk/tzYS6A/81UlR5r/g/aLFL5d3F2Pl5UzUOZfgqOSbJvIsc++TeRY/jZTKvEzsrYa+1tEDygpb2ApX2wNESKULsl022/epRWylot2/4b7mavGijgX5/9dTwXggB67zg9lmewsA9///IetGGfNp9l3n+Lw==)
 
-- End to End Course discovery and fulfilment with the new custom Courses BPP - [here] (https://swimlanes.io/u/rEz8732MU)
-- Provider platform flow integrating with Sunbird RC for Signing of Proof of Credentials as VC - [here] (https://swimlanes.io/u/DH4B9nQ2k)
+- End to End Course discovery and fulfilment with the new custom Courses BPP - [here](https://swimlanes.io/u/rEz8732MU)
+- Provider platform flow integrating with Sunbird RC for Signing of Proof of Credentials as VC - [here](https://swimlanes.io/u/DH4B9nQ2k)
 - Trusted document (W3C Verifiable Credentials) link from trusted participants on the DSEP network and store in Affinidi Credentials Wallet - [here](https://swimlanes.io/u/3MftPGMPY)
-- Trusted document (W3C Verifiable Credentials) exchange with service provider on the DSEP network for service request - [here] (https://swimlanes.io/u/-ZBmjh58H)
+- Trusted document (W3C Verifiable Credentials) exchange with service provider on the DSEP network for service request - [here](https://swimlanes.io/u/-ZBmjh58H)
 
 
 The solution is using following TechStack 
