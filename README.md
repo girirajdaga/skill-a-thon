@@ -154,9 +154,9 @@ Leverages following Reference Apps
 
 Solution is leveraging open source code  
 
-Sunbird RC (self-hosted) - Digital Public Good
-Affinidi-core-sdk as a managed hosted instance on https://build.affinidi.com/docs/api 
-DSEP Network powered by BECKN protocol
+- Sunbird RC (self-hosted) - Digital Public Good
+- Affinidi-core-sdk which is Open Source Typescript library for credentials wallet and verification of VCs; for the prototype we used this as a managed hosted instance on https://build.affinidi.com/docs/api 
+- DSEP Network powered by BECKN protocol
 
 ## Developer guide
 
