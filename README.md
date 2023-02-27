@@ -21,13 +21,13 @@ Our solution envisions an interview less, presence less and paperless world wher
 
 ### Target Audience 
 
---> Organizations of all sizes who can easily register and post new jobs that gets published on the DSEP network – think of white-collar jobs like Software developer as well as Blue collar jobs like Delivery Boy 
+ - Organizations of all sizes who can easily register and post new jobs that gets published on the DSEP network – think of white-collar jobs like Software developer as well as Blue collar jobs like Delivery Boy 
 
---> Individuals can also become Jobs providers – think of need for drivers, maids, part time accountants  
+ - Individuals can also become Jobs providers – think of need for drivers, maids, part time accountants  
 
---> Citizens looking to upgrade their livelihood and stand out in job applications compared to their peers  
+ - Citizens looking to upgrade their livelihood and stand out in job applications compared to their peers  
 
---> Coverage – all of India, extensible to add Google Translate and language translation/ voice chat enabled features to be accessible for diverse audiences.
+ - Coverage – all of India, extensible to add Google Translate and language translation/ voice chat enabled features to be accessible for diverse audiences.
 
 ### UserFlows
 We focused on Challenge 1 and 3, to build an integrated Jobs and course discovery and fulfilment journey leveraging Verifiable Credentials to reduce the cost and time of establishing trust. We focused on showing interoperability and portability between systems if they are built using Open standards and specifications. The solution is extensible in future to cover additional related scenarios and enrich the journey with more credentials issued, stored and shared over DSEP to reduce the cost of establishing trust across ecosystems.  
