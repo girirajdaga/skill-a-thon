@@ -158,6 +158,9 @@ Solution is leveraging open source code
 - Affinidi-core-sdk which is Open Source Typescript library for credentials wallet and verification of VCs; for the prototype we used this as a managed hosted instance on https://build.affinidi.com/docs/api 
 - DSEP Network powered by BECKN protocol
 
+Application code 
+https://github.com/raviranjang/skill-a-thon-trusting-india-team
+
 ## Developer guide
 
 - create API Key using https://apikey.affinidi.com/ if you wish to use the hosted Affinidi Core SDK for Credentials Wallet 
