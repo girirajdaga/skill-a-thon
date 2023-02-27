@@ -77,13 +77,13 @@ MyBuddy consumer facing mobile application (EUA) providing unified experience fo
 
    - Training & Courses  
 
-  - Internships & Jobs 
+   - Internships & Jobs 
 
  - Citizen centric application where user can “store” and “share” trusted documents in a platform agnostic Credentials Wallet and leverage them during “checkout” processes irrespective of where the issuance happened.  
 
- - Built on Open standards and Specifications, the application leverages Verifiable credentials to accelerate establishing trust in the paperless digital world 
+   - Built on Open standards and Specifications, the application leverages Verifiable credentials to accelerate establishing trust in the paperless digital world 
 
- - Improves accessibility of the trusted data for citizens across platforms 
+   - Improves accessibility of the trusted data for citizens across platforms 
 
  - Flexible application workflow that caters to Blue collar as well as White collar job seekers (unorganized and organized sectors) and easy to extend the application architecture  
 
@@ -91,15 +91,15 @@ MyBuddy consumer facing mobile application (EUA) providing unified experience fo
 
  - Mock interfaces for Provider side experience to illustrate the end to end journey 
 
- - A Training Quiz Portal where the user completes the tasks necessary to qualify for Course Certificate 
+   - A Training Quiz Portal where the user completes the tasks necessary to qualify for Course Certificate 
 
- - A Multi-tenant Employer Jobs Portal showcasing how an individual or an organization can become a Jobs provider easily and publish job opportunities to the DSEP Network 
+   - A Multi-tenant Employer Jobs Portal showcasing how an individual or an organization can become a Jobs provider easily and publish job opportunities to the DSEP Network 
 
  - Showcases the power of interoperability creating independent ways for Service Providers to “verify” the paperless certificates – without any knowledge of issuance system or the software used for issuing the certificate  
 
- - Illustrate a working sample of Showcases the power of interoperability using W3C VCs as the format for data exchange between participants of the ecosystem allowing  
+   - Illustrate a working sample of Showcases the power of interoperability using W3C VCs as the format for data exchange between participants of the ecosystem allowing  
 
- - Standards based implementation showcasing interoperability between tools and multiple systems in an ecosystem. Course completion certificate is issued using Sunbird RC and then Verifying the certificate using  
+   - Standards based implementation showcasing interoperability between tools and multiple systems in an ecosystem. Course completion certificate is issued using Sunbird RC and then Verifying the certificate using  
 
  - The solution is extensible to create Proof of Work through a decentralized peer to peer network empowering employers to broadcast request for Background check through DIDAuth and Messaging services in a privacy preserving way. The users of wallet may chose to respond with a reference check and Employers may utilize that as to further accelerate trust building in job applications 
 
