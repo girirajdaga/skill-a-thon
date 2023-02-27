@@ -3,9 +3,9 @@
 This document repo created for Team Trusting India from Affinidi for the Skill-a-thon
 
 
-##Product document	
+## Product document	
 
-###What is the Problem statement (Unmet need)? 
+### What is the Problem statement (Unmet need)? 
 
 The digital landscape is flooded with apps and platforms that cater to specific domains, often forcing users to repeatedly log in and out of various systems. Unfortunately, this approach prioritizes the outcomes of the platforms or marketplaces, rather than the needs of the customer. 
 
@@ -14,12 +14,12 @@ The service providers spend time and effort in establishing trust by performing 
 As-is solutions are based on platforms that require both citizen and the service provider to be on the same platform to access the opportunities which restricts the accessibility in a diverse country like India. 
 
 
-###Solution description 
+### Solution description 
 
 Our solution envisions an interview less, presence less and paperless world where workforce can remain job ready always through continuous education, skilling and have access to new opportunities at their fingertips powered by Decentralized skilling and education network, open standards for information exchange using W3C VCs creating portable trusted data and interoperable systems that can cater to billion people accelerating the dream of an inclusive “always on” India. 
  
 
-###Target Audience 
+### Target Audience 
 
 --> Organizations of all sizes who can easily register and post new jobs that gets published on the DSEP network – think of white-collar jobs like Software developer as well as Blue collar jobs like Delivery Boy 
 
@@ -29,7 +29,7 @@ Our solution envisions an interview less, presence less and paperless world wher
 
 --> Coverage – all of India, extensible to add Google Translate and language translation/ voice chat enabled features to be accessible for diverse audiences.
 
-###UserFlows
+### UserFlows
 We focused on Challenge 1 and 3, to build an integrated Jobs and course discovery and fulfilment journey leveraging Verifiable Credentials to reduce the cost and time of establishing trust. We focused on showing interoperability and portability between systems if they are built using Open standards and specifications. The solution is extensible in future to cover additional related scenarios and enrich the journey with more credentials issued, stored and shared over DSEP to reduce the cost of establishing trust across ecosystems.  
 
 User will search & select upskilling courses on the MyBuddy mobile application leveraging decentralized skills and employment network (DSEP /search and /select) 
@@ -69,7 +69,7 @@ Employer see “green” tick for verified data and can proceed to accept/reject
 User will browse to the submitted Job application on the MyBuddy App and can validate the status of Job Application to close the loop (DSEP /status) 
 
 
-###Features  
+### Features  
 
 MyBuddy consumer facing mobile application (EUA) providing unified experience for end user to discover new upskilling and job opportunities from a single app creating an “always” job ready workforce.  
 
@@ -103,10 +103,10 @@ Standards based implementation showcasing interoperability between tools and mul
 
 The solution is extensible to create Proof of Work through a decentralized peer to peer network empowering employers to broadcast request for Background check through DIDAuth and Messaging services in a privacy preserving way. The users of wallet may chose to respond with a reference check and Employers may utilize that as to further accelerate trust building in job applications 
 
-##Product demo	
+## Product demo	
 
-##User guide	
+## User guide	
 
-##Source code	
+## Source code	
 
-##Developer guide
+## Developer guide
