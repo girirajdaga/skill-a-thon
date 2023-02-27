@@ -113,10 +113,28 @@ Sequence diagrams for
 - Trusted document (W3C Verifiable Credentials) link from trusted participants on the DSEP network and store in Affinidi Credentials Wallet - [here](https://swimlanes.io/u/3MftPGMPY)
 - Trusted document (W3C Verifiable Credentials) exchange with service provider on the DSEP network for service request - [here] (https://swimlanes.io/u/-ZBmjh58H)
 
+
+The solution is using following TechStack 
+- SunbirdRC and Affinidi building blocks to power trust-based data exchange.  
+- Sunbird as issuance registry to sign the Proof of Skills 
+- Affinidi tools to build schema and verify independently the issued VCs 
+ - EUA App – flutter
+ - BPP - NodeJS  
+ - Partner portals – React JS  
+ - Partner portals Backend – NodeJS 
+
 ## Product demo	
 
 ## User guide	
 
 ## Source code	
 
+Solution is leveraging open source code  
+
+Sunbird RC (self-hosted) - Digital Public Good
+Affinidi-core-sdk as a managed hosted instance on https://build.affinidi.com/docs/api 
+DSEP Network powered by BECKN protocol
+
 ## Developer guide
+
+- create API Key using https://apikey.affinidi.com/ if you wish to use the hosted Affinidi Core SDK for Credentials Wallet 
