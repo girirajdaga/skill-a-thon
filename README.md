@@ -126,7 +126,7 @@ The solution is using following TechStack
 ## Product demo	
 
 Live application Links
-- [MyBuddy Mobile Application apk EUA]() 
+- [MyBuddy Mobile Application apk EUA](https://drive.google.com/drive/folders/14MiUyUWhmcDJIOKanxGvBCR_wkaq0tru?usp=sharing) 
 - [Courses Portal (Training Quiz)](http://alb1-1843043243.ap-south-1.elb.amazonaws.com/courseportal/)
 - [Employer Job Portal](http://alb1-1843043243.ap-south-1.elb.amazonaws.com/jobportal/)
 
