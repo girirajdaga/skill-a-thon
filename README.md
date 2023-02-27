@@ -125,6 +125,23 @@ The solution is using following TechStack
 
 ## Product demo	
 
+Live application Links
+- [MyBuddy Mobile Application apk EUA] () 
+- [Courses Portal (Training Quiz)](http://alb1-1843043243.ap-south-1.elb.amazonaws.com/courseportal/)
+- [Employer Job Portal] (http://alb1-1843043243.ap-south-1.elb.amazonaws.com/jobportal/)
+
+Supporting Services
+- UserManagement API http://alb1-1843043243.ap-south-1.elb.amazonaws.com/usermgmt/
+- Wrapper BAP https://af-my-buddy-bap-api.dev.in.affinidi.io/
+- Courses BPP http://alb1-1843043243.ap-south-1.elb.amazonaws.com/dsepbe/bpp
+- Courses Backend http://alb1-1843043243.ap-south-1.elb.amazonaws.com/dsepbe/courses
+- Employer Backend http://alb1-1843043243.ap-south-1.elb.amazonaws.com/dsepbe/jobs
+
+Leverages following Reference Apps
+- Unified BAP 
+- Jobs and Internships BPPs 
+
+
 ## User guide	
 
 ## Source code	
